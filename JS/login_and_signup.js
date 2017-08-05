@@ -133,7 +133,7 @@ $(function () {
     });
 
     $('#github').click(function () {
-        window.location.href="https://nodenitkkr.github.io/PingME/";
+        window.location.href="https://github.com/NodeNITKkr/PingME";
     })
 
 });
