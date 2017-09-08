@@ -1,5 +1,6 @@
 # PingME
 
+<-----------CURRENTLY UNDER DEVELOPMENT------------------>
 Its a NodeJS website developed for helping clients get 
 notifications. The notifications will be recieved by E-mail.
 
